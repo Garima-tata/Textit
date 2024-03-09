@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textit/static/css/main.fed426fd.css",
+    "main.js": "/Textit/static/js/main.06c41371.js",
+    "static/js/592.24dd2608.chunk.js": "/Textit/static/js/592.24dd2608.chunk.js",
+    "index.html": "/Textit/index.html",
+    "main.fed426fd.css.map": "/Textit/static/css/main.fed426fd.css.map",
+    "main.06c41371.js.map": "/Textit/static/js/main.06c41371.js.map",
+    "592.24dd2608.chunk.js.map": "/Textit/static/js/592.24dd2608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed426fd.css",
+    "static/js/main.06c41371.js"
+  ]
+}
